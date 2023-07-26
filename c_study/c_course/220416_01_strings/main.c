@@ -11,7 +11,7 @@ void main()
     // this is the 2nd way of initializing a string
     char myStr2[] = "Hello";
     // which is similar to the previous way
-    // so there is also a \0 char behid the scenes
+    // so there is also a \0 char behind the scenes
 
     int arrLen;
     arrLen = sizeof(myStr) / sizeof(myStr[0]);
